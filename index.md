@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to my Coding Portfolio
+I'm a Junior Front End developer with a passion of all things code.
 
-You can use the [editor on GitHub](https://github.com/RafaelThaGreat/RaffyPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text](https://github.com/RafaelThaGreat/RaffyPortfolio/blob/master/42996816_10215130153840703_2394711186852544512_n.jpg "Me 'Raff' and my wife 'Milky'")
 
-### Markdown
+I am 32 year old guy living in USA and Thailand (20%/80%), with my beautiful wife. I love programming and electronics and eating good food. I really like to travel around Asia and the rest of the world. I feel like traveling is the greatest way to gain wisdom and culture and programming is the vehicle that makes everything possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Favorite Quotes
 ```markdown
-Syntax highlighted code block
+> "We are all in the gutter, but some of us are looking at the stars." - Oscar Wilde
+> "It is in your moments of decision that your destiny is shaped." - Tony Robbins
+> "Every man dies. Not every man really lives." - William Wallace
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Social Media & Contact Me
 
-1. Numbered
-2. List
+https://www.linkedin.com/in/rafaelcodes/
 
-**Bold** and _Italic_ and `Code` text
+https://twitter.com/RaffyMarrero
 
-[Link](url) and ![Image](src)
-```
+https://github.com/rafaelthagreat
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://circuitcamp.wordpress.com/blog/
 
-### Jekyll Themes
+https://web.facebook.com/RafaelAngelMarrero
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RafaelThaGreat/RaffyPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
